@@ -17,3 +17,12 @@ body{font:15px/1 'Montserrat',sans-serif; color:#222; margin:0; height:100vh; ba
 .cd-section{height: 100vh;}
 .cd-section > div{height: 100%; position: relative;}
 .content{position: absolute; bottom:20px; left:20px; width:calc(100% - 40px); height:calc(100% - 80px); background-color: #ddd;}
+
+/* header */
+header{}
+.gnb-inner{}
+.logo{}
+.gnb{}
+.menu{ display: none;}
+.menu a{}
+.slogan{}
